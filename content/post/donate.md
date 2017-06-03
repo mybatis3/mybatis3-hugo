@@ -1,0 +1,16 @@
++++
+title = "捐赠"
+description = "感谢各位的支持！"
+weight = 99
+type = "post"
+class="post last"
++++
+<br/>
+### 支付宝二维码
+
+![alipay](images/alipay.png)
+
+### 微信二维码
+
+![weixinpay](images/weixinpay.png)
+

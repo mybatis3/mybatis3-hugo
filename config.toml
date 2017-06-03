@@ -1,0 +1,14 @@
+baseURL = "http://mybatis3.github.io/"
+languageCode = "en-us"
+title = "MyBatis 相关工具"
+
+[Params]
+  github = "abel533"
+  bitbucket = ""
+  flickr = ""
+  twitter = ""
+  email = "abel533@gmail.com"
+  description = "源码、文档、插件、示例"
+  linkedin = ""
+  cover = ""
+  logo = "/images/logo-bird-ninja-small.png"
