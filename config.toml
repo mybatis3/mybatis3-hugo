@@ -1,4 +1,4 @@
-baseURL = "https://mybatis3.github.io/"
+baseURL = "http://mybatis.tk/"#"https://mybatis3.github.io/"
 languageCode = "en-us"
 title = "MyBatis 相关工具"
 

@@ -1,9 +1,11 @@
 +++
-title = "MyBatis"
+title = "MyBatis2"
 description = ""
-weight = 1
-type = "post"
-class="post first"
+weight = 10
+type = ""
+
+draf = true
+
 +++
 
 ## 强烈推荐必读文章
