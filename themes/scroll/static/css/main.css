@@ -15,3 +15,25 @@ h1,h2,h3,h4,.fixed-nav {
     text-transform: none;
     line-height: 180%;
 }
+
+.book img {
+    width: 50%
+}
+
+.post strong, .book strong {
+    font-weight: bold;
+}
+
+hr {
+    color: black;
+    border-top: 1px solid black;
+}
+
+.others p {
+    font-size: 0.7em;
+}
+
+.donatelist p {
+    font-size: 0.7em;
+    line-height: 1em;
+}
